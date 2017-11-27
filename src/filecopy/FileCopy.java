@@ -8,8 +8,8 @@ import java.io.*; // importing java.io package
 /**
  * A class to copy the contents of a source file to a destination file. 
  * It does this by creating a new file if destination file does not exist or overwriting it if it exists
- * It also prints the contents of the source file contents that  are copied as well as the contents of the destination file
- * ram
+ * It also prints the contents of the source file that  are copied as well as the contents of the destination file
+ *  
  * @author Praveen
  * 
  */
